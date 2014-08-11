@@ -1,0 +1,25 @@
+{
+  "name": "meteor-accounts-ldap",
+  "version": "0.0.1",
+  "description": "OneNorth fork of meteor-accounts-ldap",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onenorth/meteor-accounts-ldap.git"
+  },
+  "keywords": [
+    "Meteor",
+    "LDAP",
+    "Authentication",
+    "Node"
+  ],
+  "author": "Chris Wigley | One North Interactive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onenorth/meteor-accounts-ldap/issues"
+  },
+  "homepage": "https://github.com/onenorth/meteor-accounts-ldap"
+}
