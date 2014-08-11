@@ -1,5 +1,5 @@
 {
-  "name": "meteor-accounts-ldap",
+  "name": "meteorldap",
   "version": "0.0.1",
   "description": "OneNorth fork of meteor-accounts-ldap",
   "main": "accounts-ldap/package.js",
