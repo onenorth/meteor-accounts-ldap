@@ -16,7 +16,7 @@
     "Authentication",
     "Node"
   ],
-  "author": "Chris Wigley | One North Interactive",
+  "author": "Chris Wigley",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/onenorth/meteor-accounts-ldap/issues"
