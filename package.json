@@ -2,7 +2,7 @@
   "name": "meteorldap",
   "version": "0.0.1",
   "description": "OneNorth fork of meteor-accounts-ldap",
-  "main": "accounts-ldap/package.js",
+  "main": "package.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
